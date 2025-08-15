@@ -1,4 +1,5 @@
 Analyzing COVID_19 Data with SQL: A Data-Driven Approach
+
 Problem Statement: The Covid-19 pandemic has had a significant impact on global health, economies and societies. To better understand the spread of the virus and inform public health policy, we need to analyze the Covid-19 dataset to identify trends, patterns, and insights that can inform our understanding of the pandemic.
 DATA SOURCES: We used COVID-19 data from a publicly available dataset, which includes information on cases, deaths, vaccinations and recoveries by country and region. The data was collected from [OUR WORLD IN DATA](https://docs.owid.io/projects/etl/api/covid/%23downloaddata)
 
