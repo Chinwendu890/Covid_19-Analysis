@@ -34,11 +34,13 @@ Technical Skills:
 Key findings and insights: 
 
 Trends: 
+
 Our analysis revealed that a significant increase in COVID-19 cases and deaths over time, with varying trends across different countries and continents.
 Regional Impact: We found that certain regions such as Europe and North America were heavily impacted by the pandemic, while others such as Africa, Oceania and Asia had lower cases and death rate.
 Public Health Measures:  Our analysis suggested that public health measures, such as lockdowns, social distancing, and mask-wearing, hand washing and vaccinations if undertaken will be effective in controlling the spread of the virus.
 
 Key Takeaways: 
+
 Significant trends and patterns in COVID-19 data shows that United States had the highest death percentage, which is the percentage of individuals that died due to COVID-19.
 Using the insights from the data it shows that Brazil, India, France, America, South Africa had the highest COVID-19 Virulence in South America, Asia, Europe, North America and Africa respectively. This shows the virulence of the disease and that France had the highest number of people infected with COVID-19 in Europe, closely followed by Russia and the United Kingdom. While in North America, America had the highest number of people infected with COVID-19 and it being at a very alarming rate.
 
@@ -54,13 +56,22 @@ The country with the highest vaccinated rate by population is Gibraltar, Seychel
 China had the highest amount of total vaccinations, followed by America and India, but compared to their population, their vaccination rate is low.
 
 Recommendations: 
-Vaccination efforts: To continue to promote vaccination as a crucial tool in preventing COVID_19 mortalities, especially in regions with low vaccination rates such as Afghanistan, Algeria and North Macedonia. Also use the insights above to analyze vaccination coverage and identify areas for improvement.
+
+Vaccination efforts:
+
+To continue to promote vaccination as a crucial tool in preventing COVID_19 mortalities, especially in regions with low vaccination rates such as Afghanistan, Algeria and North Macedonia. Also use the insights above to analyze vaccination coverage and identify areas for improvement.
 Targeted Interventions: Implement targeted public health measures in regions identified with high case numbers and death rates by increased testing, contact tracing, and social distance policies.
 
-Healthcare Resource Allocation: Ensure adequate healthcare resources, including hospital beds, ICU capacity, ventilators and medical personnel are available in regions with high COVID_19 caseloads.
+Healthcare Resource Allocation:
 
-Impact: Findings and recommendations can inform public health policy and support decision-making.
+Ensure adequate healthcare resources, including hospital beds, ICU capacity, ventilators and medical personnel are available in regions with high COVID_19 caseloads.
 
-Future work: Future work could include further analysis of the COVID-19 data, exploration of new data sources and analytics techniques, and development of predictive models to forecast COVID-19 trends.
+Impact:
+
+Findings and recommendations can inform public health policy and support decision-making.
+
+Future work: 
+
+Future work could include further analysis of the COVID-19 data, exploration of new data sources and analytics techniques, and development of predictive models to forecast COVID-19 trends.
 
 
