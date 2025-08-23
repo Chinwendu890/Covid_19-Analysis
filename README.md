@@ -2,7 +2,7 @@ Analyzing COVID_19 Data with SQL: A Data-Driven Approach
 
 Problem Statement: The Covid-19 pandemic has had a significant impact on global health, economies and societies. To better understand the spread of the virus and inform public health policy, we need to analyze the Covid-19 dataset to identify trends, patterns, and insights that can inform our understanding of the pandemic.
 
-DATA SOURCES: We used COVID-19 data from a publicly available dataset, which includes information on cases, deaths, vaccinations and recoveries by country and region. The data was collected from [OUR WORLD IN DATA](https://docs.owid.io/projects/etl/api/covid/%23downloaddata)
+DATA SOURCES: We used COVID-19 data from a publicly available dataset, which includes information on cases, deaths, and vaccinations by country and region. The data was collected from [OUR WORLD IN DATA](https://docs.owid.io/projects/etl/api/covid/%23downloaddata)
 
 OBJECTIVES: The objectives of this project are to:
 
@@ -32,7 +32,9 @@ Technical Skills:
 •	SQL: Writing efficient and effective SQL queries, using subqueries and joins, optimizing SQL queries for performance.
 
 Key findings and insights: 
-Trends: Our analysis revealed that a significant increase in COVID-19 cases and deaths over time, with varying trends across different countries and continents.
+
+Trends: 
+Our analysis revealed that a significant increase in COVID-19 cases and deaths over time, with varying trends across different countries and continents.
 Regional Impact: We found that certain regions such as Europe and North America were heavily impacted by the pandemic, while others such as Africa, Oceania and Asia had lower cases and death rate.
 Public Health Measures:  Our analysis suggested that public health measures, such as lockdowns, social distancing, and mask-wearing, hand washing and vaccinations if undertaken will be effective in controlling the spread of the virus.
 
