@@ -35,25 +35,29 @@ Key findings and insights:
 
 Trends: 
 
-Our analysis revealed that a significant increase in COVID-19 cases and deaths over time, with varying trends across different countries and continents.
+Our analysis revealed a significant increase in COVID-19 cases and deaths over time, with varying trends across different countries and continents.
+
 Regional Impact: We found that certain regions such as Europe and North America were heavily impacted by the pandemic, while others such as Africa, Oceania and Asia had lower cases and death rate.
-Public Health Measures:  Our analysis suggested that public health measures, such as lockdowns, social distancing, and mask-wearing, hand washing and vaccinations if undertaken will be effective in controlling the spread of the virus.
+
+Public Health Measures: Our analysis suggested that public health measures, such as lockdowns, social distancing, and mask-wearing, hand washing and vaccinations if undertaken will be effective in controlling the spread of the virus.
 
 Key Takeaways: 
 
-Significant trends and patterns in COVID-19 data shows that United States had the highest death percentage, which is the percentage of individuals that died due to COVID-19.
-Using the insights from the data it shows that Brazil, India, France, America, South Africa had the highest COVID-19 Virulence in South America, Asia, Europe, North America and Africa respectively. This shows the virulence of the disease and that France had the highest number of people infected with COVID-19 in Europe, closely followed by Russia and the United Kingdom. While in North America, America had the highest number of people infected with COVID-19 and it being at a very alarming rate.
+Significant trends and patterns in the COVID-19 data shows that United States had the highest death percentage, which is the percentage of individuals that died due to COVID-19.
+Using the insights from the data it shows that Brazil, India, France, America, South Africa had the highest COVID-19 Virulence in South America, Asia, Europe, North America and Africa respectively. 
+
+i discovered that France had the highest number of people infected with COVID-19 in Europe, closely followed by Russia and the United Kingdom. While in North America, America had the highest number of people infected with COVID-19 and it being at a very alarming rate.
 
 It is important to note that Africa was amongst the least affected continent and its least affected countries, with the lowest rate of COVID-19 infections are Mauritius, Tanzania and Saint Helena. However, African's most affected countries with the highest rate of COVID-19 infections are South Africa, Morocco and Tunisia.
 
-North America is the continent with the highest amount of deaths due to COVID-19 infections. The countries with the highest death count in the world is the United states followed by Brazil and others.
-The countries in the world with the lowest death count is Curacao followed by Dominica and others. 
+The insight shows that North America is the continent with the highest amount of deaths due to COVID-19 infections and the countries with the highest death count in the world is the United states followed by Brazil and others while the countries in the world with the lowest death count is Curacao followed by Dominica and others. 
 
 To know the COVID_19 new cases and new deaths per country, will help inform our decisions on the efficacy of the control measures in each locality. The country with the highest new cases and new deaths is the United states of America. The United states had the highest total cases of COVID _19 infections.
-The continent with the highest vaccinated rate by population is Europe, Africa and Asia, While the lowest vaccinated by population is Oceania, North America and South America. While the continent with the lowest sanitization rate by population is Oceania, North America and Asia while Europe has the highest sanitization rate.
 
-The country with the highest vaccinated rate by population is Gibraltar, Seychelles and Israel, however, the lowest vaccinated rate by population is Afghanistan, Algeria and North Macedonia. The country with the highest sanitization rate by population is Marshall Islands, Saint Lucia and Barbados. 
-China had the highest amount of total vaccinations, followed by America and India, but compared to their population, their vaccination rate is low.
+The continent with the highest vaccinated rate by population is Europe, North America and South America and Asia, While the lowest vaccinated by population is Africa and Oceania. While the continent with the lowest sanitization rate by population is Oceania, North America and Asia while Europe has the highest sanitization rate.
+
+According to the insights from the queries, the country with the highest vaccinated rate by population is Gibraltar, Seychelles and Israel, however, the lowest vaccinated rate by population is Afghanistan, Algeria and North Macedonia. The country with the highest sanitization rate by population is Marshall Islands, Saint Lucia and Barbados. 
+China had the highest amount of total vaccinations, followed by India and America , but compared to their population, their vaccination rate is low.
 
 Recommendations: 
 
