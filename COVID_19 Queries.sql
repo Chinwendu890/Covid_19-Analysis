@@ -141,7 +141,7 @@ From covid_vaccinations
 Group by Continent 
 Order by vaccinated_rate desc
 Limit 10 ;
--- The continent with the highest vaccinated rate by population is Europe, Africa and Asia --
+-- The continent with the highest vaccinated rate by population is Europe, North America, South America and Asia --
 
 -- PEOPLE FULLY VACCINATED PER POPULATION --
 -- The continent with the lowest vaccinated rate by population --
@@ -150,7 +150,7 @@ From covid_vaccinations
 Group by Continent 
 Order by vaccinated_rate asc
 Limit 10 ;
--- The continent with the lowest vaccinated rate by population is Oceania, North America and South America --
+-- The continent with the lowest vaccinated rate by population is Oceania,Africa   --
 
 -- PEOPLE FULLY VACCINATED PER POPULATION --
 -- The country with the highest vaccinated rate by population --
